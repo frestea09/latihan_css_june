@@ -1,0 +1,6 @@
+#container #linkSatu:hover{
+    color: red;
+}
+#container #linkDua:active{
+    color: orange;;
+}

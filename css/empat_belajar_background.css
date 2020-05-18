@@ -1,0 +1,9 @@
+body{
+    background-color: burlywood;
+}
+#container #gambarSatu{
+    background-image: url('../image/logo.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}

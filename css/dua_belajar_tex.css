@@ -1,0 +1,15 @@
+#judulJujur{
+    color: red;
+    text-align: left;
+    text-decoration: underline;
+}
+#judulBerani{
+    color: blue;
+    text-align: center;
+    text-decoration: overline;
+}
+#judulCerdas{
+    color: green;
+    text-align: right;
+    text-decoration: line-through;
+}
